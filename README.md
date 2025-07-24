@@ -2,10 +2,7 @@
 **Project Manager · Developer · AI Engineering**  
 Lisbon, Portugal
 
-- [🌐 LinkedIn](https://linkedin.com/in/itseduvieira)
-- [📺 YouTube](https://youtube.com/@itseduvieira)
-- [🐦 X](https://x.com/itseduvieira)
-- [🎥 TikTok](https://tiktok.com/@itseduvieira)
+[🌐 LinkedIn](https://linkedin.com/in/itseduvieira) · [📺 YouTube](https://youtube.com/@itseduvieira) · [🐦 X](https://x.com/itseduvieira) · [🎥 TikTok](https://tiktok.com/@itseduvieira)
 
 ---
 
@@ -54,7 +51,7 @@ Check my AI guide → [tuaregs.cc/guide](https://tuaregs.cc/guide)
 ### 📘 AI Guide  
 > A living knowledge base for running local and cloud-based LLMs, automating AI workflows, and working with GPU infra
 > A no-code/low-code AI agent pipeline with LLMs (LLaMA3, Phi, CodeLlama), image & audio generation, all automated via n8n  
-[📖 Read the Guide](https://tuaregs.cc/guide)
+[📖 Read the Guide](https://tuaregsai.com/guide)
 
 ---
 
@@ -65,7 +62,7 @@ Check my AI guide → [tuaregs.cc/guide](https://tuaregs.cc/guide)
 - **Partner & Head of Product** @ Shark Tank-backed foodtech startup
 - **Developer & Analyst** @ Petrobras, Accenture, SPTrans, and more
 
-Full CV available here → [LinkedIn](https://linkedin.com/in/itseduvieira)
+Full CV available here → [LINK](https://docs.google.com/document/d/1DUbfkVECI7wDB3ATJq_EnKoNDPwECYpu/edit)
 
 ---
 
