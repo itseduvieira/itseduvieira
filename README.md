@@ -8,7 +8,7 @@ Lisbon, Portugal
 
 ## 🚀 About Me
 
-I'm Eduardo, an Engineering Manager with 17+ years of experience delivering software across startups, government platforms, and global enterprises. I've built and led high-performing remote teams, launched complex B2B products, and scaled an EMM SaaS as a Google-certified partner.
+I'm Eduardo, an Project Manager and developer with 17+ years of experience delivering software across startups, government platforms, and global enterprises. I've built and led high-performing remote teams, launched complex B2B products, and scaled an EMM SaaS as a Google-certified partner.
 
 Lately, I've been focused on **AI platform engineering**: deploying and automating LLMs, fine-tuning open-source models, building agent workflows, and managing GPU inference clusters.
 
