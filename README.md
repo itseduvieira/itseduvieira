@@ -1,6 +1,6 @@
 # Hey, I'm Eduardo 👋
 
-**Technical PM who actually ships.** Joined a Shark Tank startup as developer, earned partnership. Co-founded a Google-certified SaaS managing 10K+ devices for enterprise clients. Successfully exited, relocated to Portugal, now actively seeking next Technical PM opportunity.
+**Technical PM with 17+ yoe who actually ships.** Joined a Shark Tank startup as developer, earned partnership. Co-founded a Google-certified SaaS managing 10K+ devices for enterprise clients. Successfully exited, relocated to Portugal, now actively seeking next Technical PM opportunity.
 
 Currently in Lisbon 🇵🇹, **actively exploring** Technical PM roles in **developer tools, API platforms, and B2B infrastructure**.
 
