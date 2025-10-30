@@ -68,8 +68,6 @@ Building automation tools for LLM deployment:
 - Multi-agent workflows (n8n automations)
 - Image/video generation infrastructure (ComfyUI, FLUX, Wan)
 
-Check my AI engineering guide: [tuaregs.cc/guide](https://tuaregs.cc/guide)
-
 ---
 
 ## 📝 Writing & Teaching
@@ -78,7 +76,7 @@ I create content about AI engineering, product strategy, and technical leadershi
 
 - 📺 **YouTube:** [@itseduvieira](https://youtube.com/@itseduvieira) - LLM workflows, GPU setup, automation
 - 🐦 **X:** [@itseduvieira](https://x.com/itseduvieira) - Daily notes on AI tools and product thinking
-- 📖 **Guides:** Technical documentation for deploying local/cloud LLMs
+- 📲 **TikTok:** [@itseduvieira](https://tiktok.com/itseduvieira) - Short videos about tech
 
 ---
 
