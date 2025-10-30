@@ -76,7 +76,7 @@ I create content about AI engineering, product strategy, and technical leadershi
 
 - 📺 **YouTube:** [@itseduvieira](https://youtube.com/@itseduvieira) - LLM workflows, GPU setup, automation
 - 🐦 **X:** [@itseduvieira](https://x.com/itseduvieira) - Daily notes on AI tools and product thinking
-- 📲 **TikTok:** [@itseduvieira](https://tiktok.com/itseduvieira) - Short videos about tech
+- 📲 **TikTok:** [@itseduvieira](https://tiktok.com/@itseduvieira) - Short videos about tech
 
 ---
 
