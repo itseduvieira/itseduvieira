@@ -111,7 +111,7 @@ If you're building developer tools or API platforms and need a PM who can read y
 - 📱 Managed 10K+ Android devices for enterprise clients
 - 🍽️ Served 60+ B2B customers (restaurants, bars, clubs)
 - 💻 17 years writing production code
-- 🌍 Relocated Brazil → Portugal (4-year residence permit, permanent eligible 2026)
+- 🌍 Relocated Brazil → Portugal
 - 🤖 Building AI automation infrastructure
 - ⚡ **Available:** 1-month notice period, actively seeking opportunities
 
