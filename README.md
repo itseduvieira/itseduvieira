@@ -1,6 +1,6 @@
 # Hey, I'm Eduardo 👋
 
-**Technical PM with 17+ years of experience who actually ships.** Joined a startup as developer, earned partnership, secured Shark Tank investment. Co-founded a Google-certified SaaS managing 10K+ devices for enterprise clients. Successfully exited, relocated to Portugal, now actively seeking next Technical PM opportunity.
+**Technical PM with 18+ years of experience who actually ships.** Joined a startup as developer, earned partnership, secured Shark Tank investment. Co-founded a Google-certified SaaS managing 10K+ devices for enterprise clients. Successfully exited, relocated to Portugal, now actively seeking next Technical PM opportunity.
 
 Currently in Lisbon 🇵🇹, **actively exploring** Technical PM roles in **developer tools, API platforms, and B2B infrastructure**.
 
@@ -44,15 +44,15 @@ const eduardo = {
   role: "Technical Product Manager",
   experience: "17 years",
   
-  languages: ["Java", ".NET/C#", "JavaScript", "Python"],
+  languages: ["Java", ".NET/C#", "JavaScript", "Python", "Node.js"],
   
-  frameworks: ["Spring Boot", "Angular", "Node.js", "Android SDK"],
+  frameworks: ["Spring", "Angular", "Express", "Android"],
   
   infrastructure: ["AWS", "Azure", "Docker", "GitLab CI", "Kubernetes"],
   
   databases: ["PostgreSQL", "MongoDB", "SQL Server", "Firebase"],
   
-  ai_stack: ["Ollama", "n8n", "ComfyUI", "Vast.ai", "LLM integration"],
+  ai_stack: ["Ollama", "n8n", "ComfyUI", "Vast.ai", "LLM"],
   
   product: ["Roadmap", "Scrum/Kanban", "GTM", "API Design", "0→1 Shipping"]
 };
@@ -77,6 +77,7 @@ I create content about AI engineering, product strategy, and technical leadershi
 - 📺 **YouTube:** [@itseduvieira](https://youtube.com/@itseduvieira) - LLM workflows, GPU setup, automation
 - 🐦 **X:** [@itseduvieira](https://x.com/itseduvieira) - Daily notes on AI tools and product thinking
 - 📲 **TikTok:** [@itseduvieira](https://tiktok.com/@itseduvieira) - Short videos about tech
+- 💼 **Linkedin:** [@itseduvieira](https://linkedin.com/in/itseduvieira) - Posts and articles about AI and tech in general
 
 ---
 
