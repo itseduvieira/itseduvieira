@@ -42,7 +42,7 @@ Restaurant automation platform serving 60+ restaurants, bars, and clubs.
 ```javascript
 const eduardo = {
   role: "Technical Product Manager",
-  experience: "17 years",
+  experience: "18 years",
   
   languages: ["Java", ".NET/C#", "JavaScript", "Python", "Node.js"],
   
@@ -52,7 +52,7 @@ const eduardo = {
   
   databases: ["PostgreSQL", "MongoDB", "SQL Server", "Firebase"],
   
-  ai_stack: ["Ollama", "n8n", "ComfyUI", "Vast.ai", "LLM"],
+  ai_stack: ["Ollama", "LMStudio", "vLLM", "n8n", "ComfyUI", "Vast.ai", "LLM Integration"],
   
   product: ["Roadmap", "Scrum/Kanban", "GTM", "API Design", "0→1 Shipping"]
 };
